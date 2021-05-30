@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "32909894087",
+    "firebase_url": "https://letsdate-fd2f5.firebaseio.com",
+    "project_id": "letsdate-fd2f5",
+    "storage_bucket": "letsdate-fd2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32909894087:android:c494ee00b7b3e06d6ab9e2",
+        "android_client_info": {
+          "package_name": "com.bravemindstudio.old_hindi_songs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoTKQm_sc4YcRNis2nizUcXcAzBkMLcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32909894087:android:dafefdb4796972b26ab9e2",
+        "android_client_info": {
+          "package_name": "com.edu.edu_ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32909894087-ggv5ujnevmb3bi2895qltq62ktumv9ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edu.edu_ebook",
+            "certificate_hash": "7c4a01aaa0994496d9ac6497661703c210bfc4e7"
+          }
+        },
+        {
+          "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoTKQm_sc4YcRNis2nizUcXcAzBkMLcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32909894087:android:5053f8f6a26b76ff6ab9e2",
+        "android_client_info": {
+          "package_name": "com.example.petmerchantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoTKQm_sc4YcRNis2nizUcXcAzBkMLcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32909894087:android:8afccc736ac39d296ab9e2",
+        "android_client_info": {
+          "package_name": "om.cheeta.rentacar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoTKQm_sc4YcRNis2nizUcXcAzBkMLcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32909894087-7d9njeogvklle8jhgq4gsch560ojo5ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
